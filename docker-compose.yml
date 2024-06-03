@@ -1,6 +1,5 @@
 ﻿services:
   tennis:
-    image: tennis
     build:
       context: .
       dockerfile: Tennis/Dockerfile
