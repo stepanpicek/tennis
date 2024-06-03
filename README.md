@@ -22,3 +22,4 @@ You need to have Docker installed for the application to run properly.
 ```
 docker compose up
 ```
+Docker image: https://hub.docker.com/r/stepanpicek/tennis
